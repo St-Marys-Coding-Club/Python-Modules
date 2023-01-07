@@ -37,7 +37,7 @@ or if that don't know what that is, you can: `Download the zip <https://github.c
 Table of Contents
 -----------------
 
-- `Module 1: <about://blank>`_
+- `Module 1: Python vs. Processing <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module>`_
 - `Module 2: <about://blank>`_
 - `Module 3: <about://blank>`_
 
@@ -45,7 +45,7 @@ Useful Links
 ____________
 
 - `Visual Studio Code <https://github.com/MrJyle/Abyss-Light/issues>`_
-- `St. Mary's Coding Club <about://blank>`_ 
+- `St. Mary's Coding Club <https://stmaryscodingclub.com>`_ 
 - `Discord Server <https://discord.gg/qg8pqYQgeF>`_
 
 
