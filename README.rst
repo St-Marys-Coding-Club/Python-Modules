@@ -42,7 +42,7 @@ Table of Contents
 - `Module 3: Logic Operators & Decision Structures [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%203>`_
 - `Module 4: Repetition Structures [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%204>`_
 - `Module 5: Functions [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%205>`_
-- `Module 6: Object Oriented Programing (Classes) [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%206>`_
+- `Module 6: Object Oriented Programing (Classes) [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%206>`_
 - `Subtopics <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Subtopics/>`_
 
 Useful Links
