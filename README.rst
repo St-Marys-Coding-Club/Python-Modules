@@ -37,16 +37,20 @@ or if that don't know what that is, you can: `Download the zip <https://github.c
 Table of Contents
 -----------------
 
-- `Module 1: Python vs. Processing <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module>`_
-- `Module 2: <about://blank>`_
-- `Module 3: <about://blank>`_
+- `Module 1: Python vs. Processing [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%201/>`_
+- `Module 2: Variables and Data Types [In Progress ] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%202/>`_
+- `Module 3: Logic Operators & Decision Structures [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%203>`_
+- `Module 4: Repetition Structures [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%204>`_
+- `Module 5: Functions [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%205>`_
+- `Module 6: Object Oriented Programing (Classes) [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%206>`_
+- `Subtopics <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Subtopics/>`_
 
 Useful Links
 ____________
 
-- `Visual Studio Code <https://github.com/MrJyle/Abyss-Light/issues>`_
+- `Visual Studio Code <https://code.visualstudio.com/>`_
 - `St. Mary's Coding Club <https://stmaryscodingclub.com>`_ 
-- `Discord Server <https://discord.gg/qg8pqYQgeF>`_
+- `Discord Server <https://discord.gg/RYh2jjx5mk>`_
 
 
 
