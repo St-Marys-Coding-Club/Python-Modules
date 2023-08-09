@@ -31,7 +31,7 @@ You don't need to download these repository to access the content! You can simpl
 
     $ git clone https://github.com/St-Marys-Coding-Club/Python-Modules
 
-or if that don't know what that is, you can: `Download the zip <https://github.com/St-Marys-Coding-Club/Python-Modules/archive/refs/heads/main.zip>`_
+or if you don't know what that is, you can: `Download the zip <https://github.com/St-Marys-Coding-Club/Python-Modules/archive/refs/heads/main.zip>`_
 
 
 Table of Contents
@@ -39,10 +39,10 @@ Table of Contents
 
 - `Module 1: Python vs. Processing [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%201/>`_
 - `Module 2: Variables and Data Types [In Progress ] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%202/>`_
-- `Module 3: Logic Operators & Decision Structures [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%203>`_
-- `Module 4: Repetition Structures [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%204>`_
-- `Module 5: Functions [Not Started] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%205>`_
-- `Module 6: Object Oriented Programing (Classes) [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%206>`_
+- `Module 3: Logic Operators & Decision Structures [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%203>`_
+- `Module 4: Repetition Structures [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%204>`_
+- `Module 5: Functions [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%205>`_
+- `Module 6: Object Oriented Programming (Classes) [In Progress] <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Module%206>`_
 - `Subtopics <https://github.com/St-Marys-Coding-Club/Python-Modules/tree/main/Subtopics/>`_
 
 Useful Links
