@@ -60,7 +60,7 @@ print(f"Tries taken: {number_of_tries}")
 # Another example: let's say the coding club has a list of interested students 
 # However, we can only accept 5 because of limited resources
 # How can we students while checking for the 5-person condition?
-# Let's use RECURSION:
+# Let's use loops!
 
 coding_club = ["Jyle", "Adrian", "Justin"]
 interested_students = ["John", "Adam", "James", "Daisy", "Liz"]
