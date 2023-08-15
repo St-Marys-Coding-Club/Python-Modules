@@ -21,6 +21,7 @@ length2 = 4
 # arguments. These two arguments can be used as variables within
 # the function
 
+#this function takes the arguments, base and length
 def calculate_area(base, length):
     # Create a variable named area
     area = (1/2) * base * length 
