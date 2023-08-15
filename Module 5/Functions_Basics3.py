@@ -50,7 +50,9 @@ def grade_average(student_grades):
     
     return average
 
-print(grade_average(student_A))
+computed_average = grade_average(student_A)
+
+print(computed_average)
 
 
 """    
